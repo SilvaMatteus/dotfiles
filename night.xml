@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Theme for gedit/pluma and anything else that uses gtksourceview.
+-->
+<style-scheme id="night" _name="Night" version="1.0">
+    <author>Omar Muhamed</author>
+    <_description>Dark theme that's easy on the eyes.</_description>
+
+    <color name="black" value="#41505e" />
+    <color name="red" value="#d95468" />
+    <color name="green" value="#8bd49c" />
+    <color name="yellow" value="#ebbf83" />
+    <color name="blue" value="#539afc" />
+    <color name="magenta" value="#b62d65" />
+    <color name="cyan" value="#70e1e8" />
+    <color name="white" value="#DCDCDC" />
+    <color name="background" value="#171d23" />
+    <color name="bright_background" value="#373d53" />
+
+    <style name="text" foreground="white" background="background" />
+    <style name="current-line" background="bright_background" />
+    <style name="line-numbers" foreground="white" background="background" />
+    <style name="selection" foreground="background" background="white" />
+    <style name="cursor" foreground="white" />
+
+    <style name="bracket-mismatch" background="red" foreground="black" />
+    <style name="search-match" background="cyan" foreground="black" />
+
+    <style name="def:note" background="yellow" foreground="black" />
+    <style name="def:comment" foreground="cyan" />
+    <style name="def:shebang" foreground="cyan" />
+    <style name="def:doc-comment-element" foreground="cyan" />
+
+    <style name="def:constant" foreground="blue" />
+    <style name="def:string" foreground="blue" />
+    <style name="def:special-char" foreground="blue" />
+    <style name="def:special-constant" foreground="blue" />
+    <style name="def:number" foreground="red" />
+    <style name="def:floating-point" foreground="red" />
+    <style name="def:keyword" foreground="magenta" />
+    <style name="def:builtin" foreground="magenta" />
+    <style name="def:variable" foreground="magenta" />
+    <style name="def:identifier" foreground="white" />
+    <style name="def:type" foreground="magenta" />
+    <style name="def:preprocessor" foreground="green" />
+</style-scheme>
+
