@@ -1,5 +1,5 @@
 ## Eyecandy
-![](https://i.imgur.com/MswbTcZ.png)
+![](https://i.imgur.com/LjpdVtw.png)
 
 ## My setup
 + **OS:** Debian
