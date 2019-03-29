@@ -12,13 +12,13 @@
 # order to not mess up the dark theme.
 
 # Text/base
-gtk-color-scheme = "text_color:#f0f0f0\nbase_color:#171d23"
+gtk-color-scheme = "text_color:#f0f0f0\nbase_color:#1d1f28"
 # Foreground/background
-gtk-color-scheme = "fg_color:#f0f0f0\nbg_color:#171d23"
+gtk-color-scheme = "fg_color:#f0f0f0\nbg_color:#1d1f28"
 # Selected foreground/background
 gtk-color-scheme = "selected_fg_color:#f0f0f0\nselected_bg_color:#6b6b6b"
 # Titlebar foreground/background
-gtk-color-scheme = "titlebar_fg_color:#f0f0f0\ntitlebar_bg_color:#171d23"
+gtk-color-scheme = "titlebar_fg_color:#f0f0f0\ntitlebar_bg_color:#1d1f28"
 # Tooltips foreground/background
 gtk-color-scheme = "tooltip_fg_color:#f0f0f0\ntooltip_bg_color:#616161"
 # Links

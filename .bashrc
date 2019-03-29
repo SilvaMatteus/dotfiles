@@ -26,8 +26,5 @@ if ! shopt -oq posix; then
 fi
 
 # prompts
-#export PS1='\n\[\e[35m\]\w \[\e[0m\]@\[\e[34m\] \@\n\[\e[1m\]\[\e[33m\]>\[\e[34m\]>\[\e[35m\]>\[\e[0m\] '
-#export PS2=' \[\e[1m\]\[\e[33m\]>\[\e[34m\]>\[\e[35m\]>\[\e[0m\] '
-
 export PS1=$'\[\e[0;1;30;44m\] \@ \[\e[34;45m\]\ue0b0 \[\e[30;45m\]\w \[\e[0;1;35m\]\ue0b0\[\e[0m\] '
 

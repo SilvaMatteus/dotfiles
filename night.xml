@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-    Theme for gedit/pluma and anything else that uses gtksourceview.
--->
 <style-scheme id="night" _name="Night" version="1.0">
-    <author>Omar Muhamed</author>
     <_description>Dark theme that's easy on the eyes.</_description>
 
-    <color name="black" value="#41505e" />
-    <color name="red" value="#d95468" />
-    <color name="green" value="#8bd49c" />
-    <color name="yellow" value="#ebbf83" />
-    <color name="blue" value="#539afc" />
-    <color name="magenta" value="#b62d65" />
-    <color name="cyan" value="#70e1e8" />
+    <color name="black" value="#282A36" />
+    <color name="red" value="#F37F97" />
+    <color name="green" value="#5ADECD" />
+    <color name="yellow" value="#F2A272" />
+    <color name="blue" value="#8897F4" />
+    <color name="magenta" value="#C574DD" />
+    <color name="cyan" value="#79E6F3" />
     <color name="white" value="#DCDCDC" />
-    <color name="background" value="#171d23" />
-    <color name="bright_background" value="#373d53" />
+    <color name="background" value="#1D1F28" />
+    <color name="bright_background" value="#2D2F38" />
 
     <style name="text" foreground="white" background="background" />
     <style name="current-line" background="bright_background" />
